@@ -29,7 +29,3 @@ Fonctionnalités/tâches à discuter et idées futures à creuser
 ## Gouvernance
 
 *Groupe de travail du site > Usine (RG)*
-
-## License
-
-*License libre*
